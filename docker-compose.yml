@@ -1,0 +1,18 @@
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql_copa_challenger
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: paulo360
+      MYSQL_DATABASE: copa_challenger
+      MYSQL_USER: challenger_user
+      MYSQL_PASSWORD: jujubalol360
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
+
