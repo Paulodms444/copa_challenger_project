@@ -69,8 +69,8 @@ copa_challenger/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/copa_challenger.git
-cd copa_challenger
+git clone https://github.com/Paulodms444/copa_challenger_project.git
+cd copa_challenger_project
 ```
 
 ### 2. Subir o banco MySQL
@@ -130,7 +130,7 @@ O painel interativo permite filtrar por confederação e ajustar o Top N de
 seleções exibidas, com textos de interpretação gerados dinamicamente a
 partir dos dados filtrados.
 
-🔗 **Link do dashboard publicado:** [em breve / SEU-APP.streamlit.app]
+🔗 **Link do dashboard publicado:** https://copa-challenger-ranking-fifa.streamlit.app/
 
 ---
 
@@ -146,14 +146,14 @@ estratificada (AUC-ROC).
 
 ## 🔗 Links do projeto
 
-- 📓 Notebook Kaggle: `[link do notebook]`
-- 📄 [Relatório da Solução](docs/Relatorio_Solucao.md)
-- 🎨 Dashboard: `[link do Streamlit Cloud]`
-- 🎥 Vídeo demonstrativo: `[https://youtu.be/Im0eh3no_0Q]`
+- 📓 [Notebook Kaggle](https://www.kaggle.com/code/pyronsk/notebook53c0971197)
+- 📄 Relatório da Solução: [docs/Relatorio_Solucao.md](docs/Relatorio_Solucao.md)
+- 🎨 Dashboard: https://copa-challenger-ranking-fifa.streamlit.app/
+- 🎥 Vídeo demonstrativo: https://youtu.be/Im0eh3no_0Q
 
 ---
 
 ## 👤 Autor
 
-**[Paulo Damasceno dos Santos]**
+**Paulo Damasceno dos Santos**
 Projeto desenvolvido para a Copa Challenger — Comunidade Dados por Todos.
